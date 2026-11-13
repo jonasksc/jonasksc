@@ -1,7 +1,5 @@
 <div align="center">
 
-# Olá, eu sou o Jonas! 👋
-
 ### Jonas Kaique Souza Cruz
 
 **Estudante de Sistemas de Informação • Experiência em Suporte Técnico • Desenvolvendo soluções com tecnologia e IA**
