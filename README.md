@@ -87,18 +87,6 @@ Também tive experiências práticas na área industrial em **Galutti Automotive
 - **Discover (HTML, CSS e JavaScript)** — Rocketseat.
 - **Pacote Office Completo** — Evolutime.
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Estatísticas do GitHub de Jonas](https://github-readme-stats.vercel.app/api?username=jonasksc&show_icons=true&hide_border=true&theme=transparent&locale=pt-br)
-
-![Linguagens dos repositórios públicos de Jonas](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasksc&layout=compact&hide_border=true&theme=transparent&locale=pt-br)
-
-</div>
-
-> Os cartões acima dependem de um serviço externo e podem ficar temporariamente indisponíveis. As linguagens refletem apenas os repositórios públicos analisados pelo serviço.
-
 ## 🎯 Próximos objetivos
 
 - Aprofundar meus conhecimentos em desenvolvimento de software e bancos de dados.
