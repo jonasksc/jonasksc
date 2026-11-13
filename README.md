@@ -58,6 +58,7 @@ Sistema criado para atender às necessidades de um restaurante, com foco em **co
 | 🏓 **Ping-Pong** | Exercício de lógica de programação com HTML. | [Ver projeto](https://github.com/jonasksc/Ping-Pong) |
 | 🔗 **DevLinks (Rocketseat)** | Agregador de links desenvolvido durante o Discover. | [Código](https://github.com/jonasksc/Projeto-RocketSeat) · [Demonstração](https://jonasksc.github.io/Projeto-RocketSeat/) |
 | 🧮 **Calculadora** | Projeto de estudo de uma calculadora. | [Ver projeto](https://github.com/jonasksc/Projeto-Calculadora) |
+| 🍽️ **Sistema Restaurante Empório** | Projeto pessoal para um Restaurante. | [Ver projeto](https://github.com/jonasksc/Sistema-Restaurante-Emporio) |
 
 ### 💡 Ideias para próximos projetos
 
